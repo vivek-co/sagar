@@ -1,4 +1,5 @@
 Hello Good Mornning
-Checking git conflicts
-from BNG
+Checking merge conflict
+from CHIKMAHALUYR
 working in bangalore
+
